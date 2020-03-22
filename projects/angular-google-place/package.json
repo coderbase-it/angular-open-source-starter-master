@@ -1,0 +1,14 @@
+{
+    "name": "angular-google-place",
+    "version": "1.0.0",
+    "peerDependencies": {
+        "@angular/core": ">=4.0.0"
+    },
+    "description": "Ma super librairie",
+    "keywords": [],
+    "license": "Apache-2.0",
+    "authors": ["Pierre Nédélec"],
+    "repository": "",
+    "bugs": "",
+    "homepage": ""
+}
